@@ -17,7 +17,7 @@ data/folio/         folio_v2_train.jsonl, folio_v2_validation.jsonl  (yale-nlp/F
 
 How to run
 ----------
-Open reasoning_agent.ipynb and run all cells (Kernel > Restart & Run All).
+Open main.ipynb and run all cells (Kernel > Restart & Run All).
 The notebook prints the final accuracy and total inference time, the per-dataset and per-group
 results, the experiments, example reasoning traces, and writes submission.csv.
 
